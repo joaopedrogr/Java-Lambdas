@@ -1,1 +1,1 @@
-# Java-Lambdas
+# Java Lambdas
